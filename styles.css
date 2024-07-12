@@ -18,8 +18,8 @@ body {
 
 #result {
   width: calc(100% - 20px);
-  
   margin-right: 10px;
+  margin-left:10px;
   padding: 10px;
   font-size: 2rem;
   color: #fff;
