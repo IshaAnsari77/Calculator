@@ -14,12 +14,19 @@ body {
   border-radius: 8px;
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
   overflow: hidden;
+  padding: 20px; /* Added padding for spacing */
+}
+
+.calculator h1 {
+  color: #fff;
+  text-align: center;
+  margin-bottom: 20px; /* Added margin for spacing */
 }
 
 #result {
   width: calc(100% - 20px);
   margin-right: 10px;
-  margin-left:10px;
+  margin-left: 10px;
   padding: 10px;
   font-size: 2rem;
   color: #fff;
